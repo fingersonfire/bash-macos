@@ -10,6 +10,7 @@
 # Date: Thu 27 Feb 2018 10:00:33 BST
 # Version: 0.1.3
 # Creator: dsavage
+# Source: https://github.com/UoE-macOS/jss/blob/master/utilities-fix-file-names.sh
 #
 ##################################################################
 
