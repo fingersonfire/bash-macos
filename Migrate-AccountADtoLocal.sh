@@ -1,7 +1,8 @@
 #!/bin/bash
 # Modified 4/5/2019
 Version=1.4
-# Source : https://gist.github.com/rtrouton/3ac68ac3770ab23ebae354c581f526b7
+# Source : 	https://gist.github.com/rtrouton/3ac68ac3770ab23ebae354c581f526b7
+			https://github.com/rtrouton/rtrouton_scripts/tree/master/rtrouton_scripts/migrate_ad_mobile_account_to_local_account
 # Original source is from MigrateUserHomeToDomainAcct.sh
 # Written by Patrick Gallagher - https://twitter.com/patgmac
 #
